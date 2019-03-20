@@ -6,4 +6,4 @@ This is a sample repo created for learning purpose
 - Learn
 - Explore
 
-Cheers,
+Cheers mate,
